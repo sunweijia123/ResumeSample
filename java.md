@@ -14,8 +14,8 @@
  - 工作年限：2年
  - Github：http://github.com/sunweijia123
 
- - 期望职位：Java初级程序员
- - 期望薪资：4k-6k
+ - 期望职位：Java工程师
+ - 期望薪资：13k-15k
  - 期望城市：北京
 
 ---
